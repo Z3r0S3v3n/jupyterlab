@@ -56,7 +56,7 @@
     "@lumino/polling": "^1.3.3",
     "@lumino/signaling": "^1.4.3",
     "node-fetch": "^2.6.0",
-    "ws": "^7.4.6"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "@jupyterlab/testutils": "^3.3.0-alpha.11",
