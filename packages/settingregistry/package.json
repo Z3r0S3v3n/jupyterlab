@@ -40,7 +40,7 @@
     "@lumino/coreutils": "^1.5.3",
     "@lumino/disposable": "^1.4.3",
     "@lumino/signaling": "^1.4.3",
-    "ajv": "^6.12.3",
+    "ajv": "^8.18.0",
     "json5": "^2.1.1"
   },
   "devDependencies": {
